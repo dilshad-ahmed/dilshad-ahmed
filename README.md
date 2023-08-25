@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dilshad-ahmed
 - 👀 I’m interested in learning coding and building full stack website 
-- 🌱 I’m currently learning MERN-Stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a MERN-Stack developer 
 - 📫 How to reach me https://www.linkedin.com/in/dilshad-ahmed-81b375201 
 
 <!---
